@@ -10,6 +10,6 @@ Anggota Kelompok :
 - 312110294 - Zaini Muhtarom
 
 ## Komponen - komponen
-**1. Dataset ( https://www.bps.go.id/id/statistics-table/2/MjE5NSMy/jumlah-perjalanan-wisatawan-nasional.html )
+**1. Dataset ( https://www.bps.go.id/id/statistics-table/2/MjE5NSMy/jumlah-perjalanan-wisatawan-nasional.html )**
 
-**2. Aplikasi Jupyter Notebook
+**2. Aplikasi Jupyter Notebook**
